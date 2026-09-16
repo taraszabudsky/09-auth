@@ -1,0 +1,19 @@
+.main {
+  width: 90%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 24px 16px;
+  flex: 1;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-bottom: 24px;
+  font-size: 28px;
+  font-weight: 700;
+  color: #212529;
+}
